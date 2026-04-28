@@ -1,0 +1,37 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+*.nupkg
+project.lock.json
+.vs/
+
+# Next.js / Bun
+node_modules/
+.next/
+out/
+.env*.local
+bun.lockb
+
+# AWS
+.aws-sam/
+cdk.out/
+samconfig.toml
+
+# IDE
+.idea/
+*.swp
+*.swo
+.vscode/settings.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
